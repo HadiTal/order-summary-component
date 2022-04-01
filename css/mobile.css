@@ -1,0 +1,13 @@
+body {
+    background-image: url(../images/pattern-background-mobile.svg);
+}
+
+.container-order-summery {
+    width: 90%;
+    height: 520px;
+}
+
+.container-img {
+    background-image: url(../images/illustration-hero.svg);
+    background-position: center;
+}
